@@ -32,7 +32,6 @@ An in-house pentest report templating tool designed to help gain experience in w
   - [Adding a New Report Section](#adding-a-new-report-section)
 - [Data Schema Reference](#data-schema-reference)
 - [Security Notes](#security-notes)
-- [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -247,6 +246,9 @@ To rebuild after pulling updates:
 docker compose down
 docker compose up -d --build
 ```
+
+> [!WARNING]  
+> Currently, the docker compose way of running this tool is broken. Please use the local development instead for now.
 
 ### Local Development
 
