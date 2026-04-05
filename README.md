@@ -2,7 +2,7 @@
 An in-house pentest report templating tool designed to help gain experience in writing professional grade reports. This was made in my off-time to practice writing reports, specifically for HackTheBox machines and other platforms. It is NOT used professionally, but rather a training tool designed to focus on learning how to write them and not worry about the overall design.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/r0otsec/StrikeLog/refs/heads/main/imgs/strikelog.png" width=900>
+  <img src="https://raw.githubusercontent.com/r0otsec/StrikeLog/refs/heads/main/imgs/logo.png" width=500>
 </p>
 
 ## Table of Contents
